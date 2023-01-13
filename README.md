@@ -6,7 +6,7 @@
 ### <div align="center">I'm Yunus Emre Özen, a software development specialist👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on web api and full stack development  
+- 🔭 I’m currently working on full stack development  
   
 
 - 🌱 I’m currently learning web api and microservices 
