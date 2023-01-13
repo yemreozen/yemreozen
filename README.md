@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Yunus Emre Özen, a software develepment specialist👨‍💻 </div>  
+### <div align="center">I'm Yunus Emre Özen, a software development specialist👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on full stack developer  
+- 🔭 I’m currently working on web api and full stack development  
   
 
-- 🌱 I’m currently learning rabitmq,docker,kubernates and microservices architecture  
+- 🌱 I’m currently learning web api and microservices 
   
 
 - ❓ Ask me about anything devops asks  
